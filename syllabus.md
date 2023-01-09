@@ -2,7 +2,7 @@
 
 ## Course Info 
 ### Details 
-**Session:** Spring 2023   
+**Session:** Spring 2023 (01/09/2023 - 04/28/2023)  
 **Days/Time:** Tue/Thu 16:30-17:45  
 **Room:** CCP243  
 
