@@ -48,8 +48,8 @@ of a graph. Consider how to compute shortest paths between vertices when each ed
 | Midterm Exam 1                                  | 20%    |
 | Midterm Exam 2                                  | 20%    |
 | Final Exam                                      | 30%    |
-| 5% Attendance + Participation                   | 5%     |
-| Total                                           | 100%   |
+| Attendance + Participation                      | 5%     |
+| **Total**                                       | 100%   |
 
 ### Late Work Policy 
 There will be no make-up exams, or late work accepted without a serious and compelling reason.
