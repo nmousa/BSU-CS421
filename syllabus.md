@@ -55,6 +55,23 @@ of a graph. Consider how to compute shortest paths between vertices when each ed
 ### Late Work Policy 
 There will be no make-up exams, or late work accepted without a serious and compelling reason.
 
+### Letter Grade Assignment
+Final grades assigned for this course will be based on the percentage of total points
+earned and are assigned as follows: 
+| Letter Grade | Percentage   | Performance           |
+|--------------|--------------|-----------------------|
+| A+           | [93% — 100%] | Excellent Work        |
+| A            | [90% — 93%)  | Nearly Excellent Work |
+| A-           | [87% — 90%)  | Very Good Work        |
+| B+           | [83% — 87%)  | Good Work             |
+| B            | [80% — 83%)  | Mostly Good Work      |
+| B-           | [77% — 80%)  | Above Average Work    |
+| C+           | [73% — 77%)  | Average Work          |
+| C            | [70% — 73%)  | Mostly Average Work   |
+| C-           | [67% — 70%)  | Below Average Work    |
+| D            | [60% — 67%)  | Poor Work             |
+| F            | [0% — 60%)   | Failing Work          |
+
 ## Academic Honesty
 The University's goal is to foster an intellectual atmosphere that produces educated,
 literate people. Because cheating and plagiarism are at odds with that goal, those
