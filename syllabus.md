@@ -1,16 +1,15 @@
 # CS421: Algorithms 
 
 ## Course Info 
-
 ### Details 
-Home page: https://github.com/nmousa/BSU-CS421  
-Room: CCP243  
-Time: 16:30-17:45  
-Office hours: by appointment  
-Instructor: Nilab Md Mousa (nilabmohammadmousa@boisestate.edu)  
-Grader: Md Athikul Islam (mdathikulislam@u.boisestate.edu)
+**Session:** Spring 2023   
+**Days/Time:** Tue/Thu 16:30-17:45  
+**Room:** CCP243  
 
-### Description 
+**Instructor**: Nilab Md Mousa (nilabmohammadmousa@boisestate.edu)  
+**Grader:** Md Athikul Islam (mdathikulislam@u.boisestate.edu)
+**Office hours**: by appointment  
+**Home page:** https://github.com/nmousa/BSU-CS421  
 
 ### Prerequisite 
 CS321 
