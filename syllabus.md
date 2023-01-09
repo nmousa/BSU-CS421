@@ -7,7 +7,7 @@
 **Room:** CCP243  
 
 **Instructor**: Nilab Md Mousa (nilabmohammadmousa@boisestate.edu)  
-**Grader:** Md Athikul Islam (mdathikulislam@u.boisestate.edu)
+**Grader:** Md Athikul Islam (mdathikulislam@u.boisestate.edu)  
 **Office hours**: by appointment  
 **Home page:** https://github.com/nmousa/BSU-CS421  
 
